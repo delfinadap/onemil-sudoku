@@ -1,12 +1,12 @@
 # onemil.xyz — 1,000+ Unique Sudoku Puzzles
 
-(Originally posted on [discord.gg/PeArHATD](https://discord.gg/PeArHATD))
-
 I collected more than a thousand unique sudoku puzzles from [onemil.xyz](https://www.onemil.xyz).
 
 **How it works:** Send a fingerprint to `/api/puzzle` → get a signed URL for the mapped PDF. Tokens expire in ~24 hours but can be refreshed by re-sending the same fingerprint.
 
 A fingerprint is a deterministic 8-character base-36 string (`[a-z0-9]`) generated client-side from your browser profile — screen resolution, GPU, installed fonts, timezone, language, and other hardware details. Each unique fingerprint maps to one PDF file on the server. Full space: 36⁸ ≈ 2.8 trillion possible fingerprints.
+
+(Originally posted on [discord.gg/PeArHATD](https://discord.gg/PeArHATD))
 
 ## Distribution
 
