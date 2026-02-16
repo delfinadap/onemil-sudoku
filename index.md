@@ -1119,6 +1119,7 @@ A fingerprint is a deterministic 8-character base-36 string (`[a-z0-9]`) generat
 | `00001098` | 304,145 | [304146.pdf](pdfs/304146.pdf) |  |
 | `00001099` | 304,173 | [304174.pdf](pdfs/304174.pdf) |  |
 | `00001100` | 304,181 | [304182.pdf](pdfs/304182.pdf) |  |
+| `01000000` | 117,405 | [117406.pdf](pdfs/117406.pdf) |  |
 | `57878503` | 592,748 | [592749.pdf](pdfs/592749.pdf) | unusually large index - from hyperreality |
 
 For more context on the sudoku system, see [Sudoku / onemil.xyz Intel](https://delfinadap.github.io/mrbeast-51-locations/sudoku).
