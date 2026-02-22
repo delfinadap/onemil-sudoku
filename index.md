@@ -8,6 +8,8 @@ A fingerprint is a deterministic 8-character base-36 string (`[a-z0-9]`) generat
 
 (Originally posted on [discord.gg/PeArHATD](https://discord.gg/PeArHATD))
 
+**[Browse 3,000 additional sudoku puzzles →](h/)**
+
 ## Distribution
 
 ![pdfIndex Distribution](pdfindex-distribution.png)
